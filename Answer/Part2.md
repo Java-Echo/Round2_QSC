@@ -12,12 +12,12 @@
    + 注释性描述:ubuntu 19.10，存放用户的全名
    + 宿主目录：用户登陆系统后的缺省目录
    + 命令解释器：用户使用的shell，一般默认为bash
-6. xterm是一款虚拟终端，
+6. xterm是一个windows system上的终端模拟器，用来提供多个独立的shell输出
 7. Main：Main包含自由软件的软件包，这些软件包和自由软件的观念一致，并且安装ubuntu时就默认可用，所有Main组件中的软件包都可以免费获得安全更新和技术支持，OpenOffice.org Abiword和Apache网络服务器就在其中。  
   Universe：Universe包含了数千个不由Canonical官方支持的软件包，这些软件包授权于各种自由软件许可协议来自各种公共来源，组件只能通过互联网下载。  
-  Multiverse：Multiverse包含非自由软件，也就是说软件的许可协议需求和Ubuntu Main组件的许可协议规则不符，用户需要负责验证自己是否有权使用该软件并且接受单一许可协议条款。其中包含VLC和Adobe FLash插件等。
-  Parter:
-  Restricted:
+  Multiverse：Multiverse包含非自由软件，也就是说软件的许可协议需求和Ubuntu Main组件的许可协议规则不符，用户需要负责验证自己是否有权使用该软件并且接受单一许可协议条款。其中包含VLC和Adobe FLash插件等。  
+  Parter:   
+  Restricted:  
 8. `cd ../../../..`其中n个`..`、
 9. `ls -d .*`
 10. `ls *conf`
